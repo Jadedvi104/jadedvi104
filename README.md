@@ -1,10 +1,13 @@
 <h2>A Little Bit About Me</h2>
-- 👋 Hi, I’m Ja from BKK, Thailand
-- 👀 I’m a Blockchain & Full-Stack Developers
-- 🌱 I’m currently using Solidity, React and NextJS
-- 💞️ I’m looking to collaborate on Blockchaing Development
-- 📫 How to reach me email: Jadedvi104@gmail.com
-
+<p>
+<ul>
+<li> 👋 Hi, I’m Ja from BKK, Thailand
+<li> 👀 I’m a Blockchain & Full-Stack Developers
+<li> 🌱 I’m currently using Solidity, React and NextJS
+<li> 💞️ I’m looking to collaborate on Blockchaing Development
+<li> 📫 How to reach me email: Jadedvi104@gmail.com
+ </ul>
+</p>
 
 
 My Currrent Stack
