@@ -5,7 +5,6 @@
 <li> 👀 I’m a Blockchain & Full-Stack Developers
 <li> 🌱 I’m currently using Solidity, React and NextJS
 <li> 💞️ I’m looking to collaborate on Blockchaing Development
-<li> 📫 How to reach me email: Jadedvi104@gmail.com
  </ul>
 </p>
 
@@ -23,3 +22,8 @@ My Coding Schools
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
+
+
+
+<h2>Links</h2>
+Links
