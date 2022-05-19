@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ja
-- 👀 I’m interested in Blockchain & Full-Stack Development
-- 🌱 I’m currently learning Solidity, React and NodeJS
+- 👋 Hi, I’m Ja from BKK, Thailand
+- 👀 I’m a Blockchain & Full-Stack Developers
+- 🌱 I’m currently using Solidity, React and NextJS
 - 💞️ I’m looking to collaborate on Blockchaing Development
 - 📫 How to reach me email: Jadedvi104@gmail.com
 
