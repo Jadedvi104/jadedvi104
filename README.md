@@ -1,3 +1,4 @@
+<h2>A Little Bit About Me</h2>
 - 👋 Hi, I’m Ja from BKK, Thailand
 - 👀 I’m a Blockchain & Full-Stack Developers
 - 🌱 I’m currently using Solidity, React and NextJS
