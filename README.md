@@ -27,3 +27,4 @@ My Coding Schools
 
 <h2>Links</h2>
 <a href="https://www.youtube.com/channel/UCEHvd90AnM9THOtpmmVS2aQ"><img  src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
+<a href="https://www.linkedin.com/in/jirayu-n-6a392b144/"><img src"" alt="drawing" width="100"/>
