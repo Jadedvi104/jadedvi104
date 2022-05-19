@@ -26,4 +26,4 @@ My Coding Schools
 
 
 <h2>Links</h2>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://www.youtube.com/channel/UCEHvd90AnM9THOtpmmVS2aQ"><img  src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
