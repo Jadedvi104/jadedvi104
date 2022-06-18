@@ -3,7 +3,7 @@
 <ul>
 <li> 👋 Hi, I’m Ja from BKK, Thailand
 <li> 👀 I’m a Blockchain & Full-Stack Developers
-<li> 🌱 I’m currently using Solidity, React and NextJS
+<li> 🌱 I’m currently using Solidity, EthersJs, ReactJs and NextJS
 <li> 💞️ I’m looking to collaborate on Blockchaing Development
  </ul>
 </p>
