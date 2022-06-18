@@ -7,7 +7,6 @@
 <li> ✍️ I have a little experience about MongoDb and API.
 <li> 💞️ I’m looking to collaborate on Blockchaing Development
 <li> ⚡ Fun fact: I was a Senior Marketer and have not graduated.
-<li> 📄 Know about my experiences <a href="https://www.canva.com/design/DAE63JN4MHM/jaqgikemx2YXnWRMqNAi6w/view?utm_content=DAE63JN4MHM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>Link
  </ul>
 </p>
 
