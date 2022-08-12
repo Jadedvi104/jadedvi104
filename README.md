@@ -6,7 +6,7 @@
 <li> 🌱 I’m currently using Solidity, Hardhat, EthersJs, ReactJs and NextJS
 <li> ✍️ I have a little experience about MongoDb and API.
 <li> 💞️ I’m looking to collaborate on Blockchaing Development
-<li> ⚡ Fun fact: I was a Senior Marketer and did not graduate.
+<li> ⚡ Fun fact: I was a Senior Marketer and did not graduate from Uni.
  </ul>
 </p>
 
@@ -22,6 +22,9 @@ My Currrent Stack
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+IDEs/Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 My Coding Schools
 <br>
