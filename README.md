@@ -6,7 +6,6 @@
 <li> 🌱 I’m currently using Solidity, Hardhat, EthersJs, ReactJs and NextJS
 <li> ✍️ I have a little experience about MongoDb and API.
 <li> 💞️ I’m looking to collaborate on Blockchaing Development
-<li> ⚡ Fun fact: I was a Senior Marketer and did not graduate from Uni.
  </ul>
 </p>
 
