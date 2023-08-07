@@ -2,11 +2,11 @@
 <p>
 <ul>
 <li> 👋 Hi, I’m Ja from BKK, Thailand
-<li> 👀 I’m a Blockchain & Full-Stack Developers
-<li> 🌱 I’m currently using Solidity, Hardhat, EthersJs, ReactJs and NextJS
-<li> ✍️ I have a little experience about MongoDb and API.
-<li> 💞️ I’m looking to collaborate on Blockchaing Development
- </ul>
+<li> 👀 I’m a Full-Stack Web & Mobile Developer.
+<li> 🌱 I’m currently using Reactjs, Nextjs for front-end and Nestjs, Mongo, Redis, SQL for Back-end, all are written in Typescript.
+<li> ✍️ I have a little experience in Lens and prod management.
+<li> 💞️ I’m looking to work with Web & Mobile Development team.
+</ul>
 </p>
 
 
