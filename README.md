@@ -32,14 +32,6 @@ IDEs/Editors
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-My Coding Schools
-<br>
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-
-
 
 <h2>Links</h2>
 <a href="https://www.youtube.com/channel/UCEHvd90AnM9THOtpmmVS2aQ"><img  src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
