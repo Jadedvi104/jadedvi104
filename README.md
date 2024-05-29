@@ -2,9 +2,8 @@
 <p>
 <ul>
 <li> 👋 Hi, I’m Ja from BKK, Thailand
-<li> 👀 I’m a Full-Stack Web & Mobile Developer.
-<li> 🌱 I’m currently using Reactjs, Nextjs for front-end and Nestjs, Mongo, Redis, SQL for Back-end, all are written in Typescript.
-<li> ✍️ I have a little experience in Lens and prod management.
+<li> 👀 I’m a Full-Stack Web Dev.
+<li> 🌱 I’m currently using Reactjs, Nextjs for front-end and Nestjs, Mongo, Redis for Back-end, all are written in Typescript.
 <li> 💞️ I’m looking to work with Web & Mobile Development team.
 </ul>
 </p>
